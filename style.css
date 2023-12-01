@@ -9,7 +9,7 @@
 
 /* Style for the section with background image */
 .home {
-  background-image: url('/image/pic.jpg');
+  background-image: url('pic.jpg');
   background-size: cover;
   background-position: center;
   text-align: center;
